@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-**Matheushelloworld/Matheushelloworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer who started his journey as a web developer and fell in love with:
+
+- 🤖 Software Automation
+- 🕸 Web Development
+- 🌐 Open Source
+- 🎓 Leadership and Mentoring in Software Development
+- Do you want to know more about me?
+- 💻 Visit my website!
+Check my blog if you want to read about my software developer career
+You can read what I'm up to now as well.
+Say hi on twitter logo Twitter: @oscard0m_
 
 Here are some ideas to get you started:
 
